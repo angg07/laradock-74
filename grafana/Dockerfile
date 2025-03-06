@@ -1,3 +1,3 @@
 FROM grafana/grafana:latest
 
-EXPOSE 4000
+EXPOSE 3000
